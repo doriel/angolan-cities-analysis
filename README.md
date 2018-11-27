@@ -5,4 +5,4 @@ Analysis of data from Angolan cities and population with Jupyter Notebook
 ~~Wait~~
 
 ### Thank You
-[Simple Maps](https://simplemaps.com/data/ao-cities) for providing the **Data**
+[Simple Maps](https://simplemaps.com/data/ao-cities) and [Dirk Eddelbuettel](https://github.com/eddelbuettel/data-gapminder/blob/master/files_unfiltered/Africa/Angola.csv) for providing the **Data**
