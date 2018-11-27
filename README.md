@@ -1,7 +1,7 @@
-# angolan-cities-analysis
+# Angolan Cities Analysis
 Analysis of data from Angolan cities and population with Jupyter Notebook
 
-# Usage
+## Usage
 ~~Wait~~
 
 ### Thank You
